@@ -8,6 +8,9 @@ Event info: [無用發明工作坊 by 藤原麻里菜](https://www.accupass.com/
 
 ![](images/workshop.jpg)
 
+
+:bulb: Please subscribe Marina's channel -- [無駄づくり / MUDAzukuri](https://www.youtube.com/c/mudadukuri) :heart_eyes: :heart_eyes: :heart_eyes:
+
 ## About the repo
 
 	.
@@ -62,6 +65,7 @@ I use a small switch button to switch "Running mode "and "Demo mode". In the Run
 
 
 ![](images/piezo.png)
+
 This is an interesting part. You can get a Piezo bender from a piezoelectric buzzer. 
 
 
@@ -69,14 +73,17 @@ This is an interesting part. You can get a Piezo bender from a piezoelectric buz
 
 
 ![](images/usb-breakout-board.jpg)
+
 **DO NOT** power MG966R by Arduino, it will damage your Arduino. You have to use an external 5V power supply.
 
 
 ![](images/dfplayer.jpg)
+
 MP3 Player Module. Like using a servo motor,  you have to power by external 5V power supply, or you will get noise audio when you play music.
 
 
 ![](images/mg996r.png)
+
 Please purchase a Servo motor that uses metal gears inside.
 
 ~ END ~
